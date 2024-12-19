@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.akira_recuperacion"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.akira_recuperacion"
